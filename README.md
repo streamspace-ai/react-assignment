@@ -26,8 +26,8 @@ npm install
 
 4. Start the server:
 
-``` npm start start-backend```
+``` npm run start-backend```
 
 5. Start the ui:
 
-``` npm start start```
+``` npm start```
